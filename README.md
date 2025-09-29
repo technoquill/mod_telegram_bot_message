@@ -1,5 +1,4 @@
 # Telegram bot message for Joomla 4.2.0 +
-Joomla 4.2.0 or higher module for sending into telegram bot message from your site
 
 **Joomla! 4/5 Module** for quick integration with **Telegram Bot API**.  
 This module allows you to send messages to a selected Telegram chat directly from your Joomla site. Perfect for notifications, feedback, or integration with other services.
@@ -16,7 +15,7 @@ This module allows you to send messages to a selected Telegram chat directly fro
 ---
 
 ## Installation
-1. Download the latest release from [Releases](../../releases).
+1. Download the latest release from [Releases](https://github.com/technoquill/mod_telegram_bot_message/releases/tag/v1.0.0).
 2. In Joomla Admin → **Extensions → Manage → Install**, upload the ZIP file.
 3. Enable the module in the desired position.
 
